@@ -1,0 +1,18 @@
+var my_name="TUHIN";
+            console.log(my_name);
+            var my_surname="BISWAS";
+            console.log(my_surname);
+            var CONCAT=my_name.concat(my_surname);
+            console.log(CONCAT);
+            var lowercase=CONCAT.toLowerCase();
+            console.log(lowercase);
+            var length=CONCAT.length;
+            console.log(length);
+            var replace=CONCAT.replace("BISWAS","BISWAs");
+            console.log(replace);
+            var squareroot=Math.sqrt(49);
+            console.log(squareroot);
+            var bignumber=3.7448927394284928489;
+            console.log(bignumber);
+            var fixed=bignumber.toFixed(2);
+            console.log(fixed);
